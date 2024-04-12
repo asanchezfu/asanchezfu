@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andres Sanchez</h1>
-<h3 align="center">Backend Developer with a Passion for Data Science and Education | Currently Systems and Computing Engineering Student at Universidad Nacional de Colombia 💚</h3>
+<h3 align="center">Backend Developer with a Passion for Data Science and Education
+  
+  Currently Systems and Computing Engineering Student at Universidad Nacional de Colombia 💚</h3>
 
 - 🔭 I’m currently working on **Quanticon Valley**
 
