@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Andres Sanchez</h1>
+<h1 align="center">Hi 👋, I'm Andres Sanchez 👩🏻‍💻</h1>
 <h3 align="center">Backend Developer with a Passion for Education
-  
-  Systems and Computing Engineering Student at Universidad Nacional de Colombia 💚</h3>
+
+Systems and Computing Engineering Student at Universidad Nacional de Colombia 💚</h3>
 
 - 🔭 I’m currently working on **ACI Worldwide | Bre-B project for Banco de la República**
 
