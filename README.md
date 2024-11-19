@@ -11,7 +11,7 @@ Systems and Computing Engineering Student at Universidad Nacional de Colombia �
 
 - 🌱 I’m currently enrolled in [Codecademy Back-end Engineer Career Path](https://www.codecademy.com/learn/paths/back-end-engineer-career-path)
 
-- 📫 How to reach me: **asanchezfu@unal.edu.co** | **[LinkedIn](https://www.linkedin.com/in/asanchezfu/)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/asanchezfu/)** | **asanchezfu@unal.edu.co** 
 
 
 <h3 align="left">Languages and Tools:</h3>
