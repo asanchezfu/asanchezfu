@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andres Sanchez</h1>
 <h3 align="center">Backend Developer with a Passion for Education
   
-  Currently Systems and Computing Engineering Student at Universidad Nacional de Colombia 💚</h3>
+  Systems and Computing Engineering Student at Universidad Nacional de Colombia 💚</h3>
 
 - 🔭 I’m currently working on **ACI Worldwide | Bre-B project for Banco de la República**
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently enrolled in [Codecademy Back-end Engineer Career Path](https://www.codecademy.com/learn/paths/back-end-engineer-career-path)
 
-- 📫 How to reach me: **[E-mail](asanchezfu@unal.edu.co)** | **[LinkedIn](https://www.linkedin.com/in/asanchezfu/)**
+- 📫 How to reach me: **asanchezfu@unal.edu.co** | **[LinkedIn](https://www.linkedin.com/in/asanchezfu/)**
 
 
 <h3 align="left">Languages and Tools:</h3>
