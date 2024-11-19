@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Andres Sanchez 👩🏻‍💻</h1>
+<h1 align="center">Hi 👋, I'm Andres Sanchez 🧑🏻‍💻</h1>
 <h3 align="center">Backend Developer with a Passion for Education
 
 Systems and Computing Engineering Student at Universidad Nacional de Colombia 💚</h3>
 
 - 🔭 I’m currently working on **ACI Worldwide | Bre-B project for Banco de la República**
 
-- ✨ I’m currently working as team leader for [OOP Educational Resource Website for Universidad Nacional](https://poo-un.github.io)
+- ✨ I’m currently working as **Team Leader** for OOP Educational [Resource Website](https://poo-un.github.io) for Universidad Nacional
 
 - 📚 I’m currently learning **Backend as a Service(BaaS)**
 
