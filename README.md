@@ -3,13 +3,15 @@
 
 Systems and Computing Engineering Student at Universidad Nacional de Colombia 💚</h3>
 
-- 🔭 I’m currently working on **ACI Worldwide | Bre-B project for Banco de la República**
+- 🤖 I’m currently working on **Caseware | AiDA, Caseware’s AI-powered product**
+
+- 🔭 I worked on **ACI Worldwide | Bre-B project for Banco de la República**
 
 - ✨ I’m currently working as **Team Leader** for OOP Educational [Resource Website](https://poo-un.github.io) for Universidad Nacional
 
-- 📚 I’m currently learning **Backend as a Service(BaaS)**
+- 📚 I’m currently learning **AWS Bedrock**
 
-- 🌱 I’m currently enrolled in [Codecademy Back-end Engineer Career Path](https://www.codecademy.com/learn/paths/back-end-engineer-career-path)
+- 🌱 I’m currently enrolled in [AWS Certified Machine Learning Engineer - Associate]([https://www.codecademy.com/learn/paths/back-end-engineer-career-path](https://skillbuilder.aws/exam-prep/machine-learning-engineer-associate))
 
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/asanchezfu/)** | **asanchezfu@unal.edu.co** 
 
