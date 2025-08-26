@@ -9,7 +9,7 @@ Systems and Computing Engineering Student at Universidad Nacional de Colombia �
 
 - ✨ I’m currently working as **Team Leader** for OOP Educational [Resource Website](https://poo-un.github.io) for Universidad Nacional
 
-- 📚 I’m currently learning **AWS Bedrock**
+- 📚 I’m currently learning **Retrieval-Augmented Generation (RAG)**
 
 - 🌱 I’m currently enrolled in [AWS Certified Machine Learning Engineer - Associate]([https://www.codecademy.com/learn/paths/back-end-engineer-career-path](https://skillbuilder.aws/exam-prep/machine-learning-engineer-associate))
 
